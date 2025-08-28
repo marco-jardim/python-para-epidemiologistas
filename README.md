@@ -16,6 +16,7 @@ Material do minicurso voltado a profissionais de epidemiologia que **já usam R/
 ```
 aulas/
 └── Python IESC - Aula 1.ipynb
+    Exercicios_complementares_Aula1.ipynb
 ```
 
 **Dica (Colab):**
