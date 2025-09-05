@@ -17,6 +17,9 @@ Material do minicurso voltado a profissionais de epidemiologia que **já usam R/
 aulas/
 └── Python IESC - Aula 1.ipynb
     Python IESC - Aula 2.ipynb
+    Python IESC - Aula 3.ipynb
+    Python IESC - Aula 4.ipynb
+    Python IESC - Aula 5.ipynb
     Exercicios_complementares_Aula1.ipynb
 ```
 
@@ -99,7 +102,6 @@ aulas/
 
 ## Roadmap
 
-* [ ] Publicar **Aula 3** (datas/reshapes/joins/curva epidêmica).
 * [ ] Publicar **Aula 4** (visualização).
 * [ ] Publicar **Aula 5** (GLM e reprodutibilidade).
 
